@@ -56,5 +56,4 @@ public class OddNumberTest {
         assertEquals(0, result);
     }
 
-    //
 }
