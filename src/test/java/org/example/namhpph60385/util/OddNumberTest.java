@@ -55,4 +55,6 @@ public class OddNumberTest {
         int result = OddNumberCalculator.calculateSumOddNumbers(-5, 5);
         assertEquals(0, result);
     }
+
+    //
 }
